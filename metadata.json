@@ -1,0 +1,6 @@
+{
+  "name": "WaBot Studio",
+  "description": "WhatsApp Business AI Customer Support Bot manager, simulator, webhook tester, and bilingual prompt orchestrator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
